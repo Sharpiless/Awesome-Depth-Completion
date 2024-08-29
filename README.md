@@ -5,7 +5,7 @@
 
 | Paper | Publication | Code | RMSE on KITTI | 论文解读 |
 | :---- | :---------: | :------: | :-----: | :-----: |
-| https://blog.csdn.net/weixin_44936889/article/details/141650799 | [TPAMI 2022](https://ieeexplore.ieee.org/document/9984942) | N/A | N/A | [CSDN](https://blog.csdn.net/weixin_44936889/article/details/141650799) |
+| Deep Depth Completion from Extremely Sparse Data: A Survey | [TPAMI 2022](https://ieeexplore.ieee.org/document/9984942) | N/A | N/A | [CSDN](https://blog.csdn.net/weixin_44936889/article/details/141650799) |
 
 # Papers：
 
