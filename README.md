@@ -7,6 +7,12 @@
 | :---- | :---------: | :------: | :-----: | :-----: |
 | https://blog.csdn.net/weixin_44936889/article/details/141650799 | [TPAMI 2022](https://ieeexplore.ieee.org/document/9984942) | N/A | N/A | [CSDN](https://blog.csdn.net/weixin_44936889/article/details/141650799) |
 # Papers：
+## ECCV 2024：
+
+| Paper | Publication | Code | RMSE on KITTI | 论文解读 |
+| :---- | :---------: | :------: | :-----: | :-----: |
+| Sparse Beats Dense: Rethinking Supervision in Radar-Camera Depth Completion | [ECCV 2024](https://arxiv.org/abs/2312.00844) | [github](https://github.com/megvii-research/Sparse-Beats-Dense) | N/A | N/A |
+| AugUndo: Scaling Up Augmentations for Monocular Depth Completion and Estimation | [ECCV 2024](https://arxiv.org/abs/2310.09739) | [github](https://github.com/alexklwong/augundo) | N/A | **1114.53** |
 
 ## CVPR 2024：
 
