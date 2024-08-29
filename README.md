@@ -6,7 +6,9 @@
 | Paper | Publication | Code | RMSE on KITTI | 论文解读 |
 | :---- | :---------: | :------: | :-----: | :-----: |
 | https://blog.csdn.net/weixin_44936889/article/details/141650799 | [TPAMI 2022](https://ieeexplore.ieee.org/document/9984942) | N/A | N/A | [CSDN](https://blog.csdn.net/weixin_44936889/article/details/141650799) |
+
 # Papers：
+
 ## ECCV 2024：
 
 | Paper | Publication | Code | RMSE on KITTI | 论文解读 |
@@ -46,4 +48,21 @@
 | SIUNet: Sparsity Invariant U-Net for Edge-Aware Depth Completion | [WACV 2023](https://openaccess.thecvf.com/content/WACV2023/papers/Ramesh_SIUNet_Sparsity_Invariant_U-Net_for_Edge-Aware_Depth_Completion_WACV_2023_paper.pdf) | N/A | **1026.61** | N/A |
 | Uncertainty-Aware Interactive LiDAR Sampling for Deep Depth Completion | [WACV 2023](https://openaccess.thecvf.com/content/WACV2023/papers/Taguchi_Uncertainty-Aware_Interactive_LiDAR_Sampling_for_Deep_Depth_Completion_WACV_2023_paper.pdf) | [github](https://github.com/abdo-eldesokey/pncnn) | **960.05** | N/A |
 
+## ECCV 2022：
 
+| Paper | Publication | Code | RMSE on KITTI | 论文解读 |
+| :---- | :---------: | :------: | :-----: | :-----: |
+| RigNet: Repetitive Image Guided Network for Depth Completion | [ECCV 2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870211.pdf) | N/A | **712.66** | N/A |
+| Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion | [ECCV 2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610372.pdf) | N/A | **774.63** | N/A |
+| Monitored Distillation for Positive Congruent Depth Completion | [ECCV 2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620035-supp.pdf) | [github](https://github.com/alexklwong/mondi-python) | **815.15** | N/A |
+| CostDCNet: Cost Volume based Depth Completion for a Single RGB-D Image | [ECCV 2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620248.pdf) | [github](https://github.com/kamse/CostDCNet) | **868.62** | N/A |
+| GraphCSPN: Geometry-Aware Depth Completion via Dynamic GCNs | [ECCV 2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930087.pdf) | [github](https://github.com/xinliu20/GraphCSPN_ECCV2022) | **738.41** | N/A |
+
+## CVPR 2022：
+
+| Paper | Publication | Code | RMSE on KITTI | 论文解读 |
+| :---- | :---------: | :------: | :-----: | :-----: |
+| RDFC-GAN: RGB-Depth Fusion GAN for Indoor Depth Completion | [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RGB-Depth_Fusion_GAN_for_Indoor_Depth_Completion_CVPR_2022_paper.pdf) | [github](https://github.com/midea-ai/RDFC-GAN) | N/A | N/A |
+| GuideFormer: Transformers for Image Guided Depth Completion | [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Rho_GuideFormer_Transformers_for_Image_Guided_Depth_Completion_CVPR_2022_paper.pdf) | N/A | **721.48** | N/A |
+
+## WACV 2022：
