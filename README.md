@@ -25,14 +25,14 @@
 | Improving Depth Completion via Depth Feature Upsampling | [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Improving_Depth_Completion_via_Depth_Feature_Upsampling_CVPR_2024_paper.pdf) |[github](https://github.com/YufeiWang777/DFU) | **736.60** |  [CSDN](https://blog.csdn.net/weixin_44936889/article/details/141675447) |
 | Tri-Perspective View Decomposition for Geometry-Aware Depth Completion  | [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_Tri-Perspective_View_Decomposition_for_Geometry-Aware_Depth_Completion_CVPR_2024_paper.pdf) |[project](https://yanzq95.github.io/projectpage/TOFDC/index.html) | **693.97** |  [CSDN](https://blog.csdn.net/weixin_44936889/article/details/141675708?spm=1001.2014.3001.5501) |
 | DeCoTR: Enhancing Depth Completion with 2D and 3D Attentions  | [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_DeCoTR_Enhancing_Depth_Completion_with_2D_and_3D_Attentions_CVPR_2024_paper.pdf) | N/A | **717.07** |  [CSDN](https://blog.csdn.net/weixin_44936889/article/details/141651035) |
-| Bilateral Propagation Network for Depth Completion  | [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Bilateral_Propagation_Network_for_Depth_Completion_CVPR_2024_paper.pdf) | [github](https://github.com/kakaxi314/BP-Net) | **684.90** |  N/A |
+| Bilateral Propagation Network for Depth Completion  | [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Bilateral_Propagation_Network_for_Depth_Completion_CVPR_2024_paper.pdf) | [github](https://github.com/kakaxi314/BP-Net) | **684.90** |  [CSDN](https://blog.csdn.net/weixin_44936889/article/details/141649769?spm=1001.2014.3001.5502) |
 
 ## ICCV 2023：
 
 | Paper | Publication | Code | RMSE on KITTI | 论文解读 |
 | :---- | :---------: | :------: | :-----: | :-----: |
-| LRRU: Long-short Range Recurrent Updating Networks for Depth Completion | [ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_LRRU_Long-short_Range_Recurrent_Updating_Networks_for_Depth_Completion_ICCV_2023_paper.pdf) | [github](https://github.com/YufeiWang777/LRRU) | **695.67** | N/A |
-| Aggregating Feature Point Cloud for Depth Completion | [ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Yu_Aggregating_Feature_Point_Cloud_for_Depth_Completion_ICCV_2023_paper.pdf) | N/A | **736.07** | N/A |
+| LRRU: Long-short Range Recurrent Updating Networks for Depth Completion | [ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_LRRU_Long-short_Range_Recurrent_Updating_Networks_for_Depth_Completion_ICCV_2023_paper.pdf) | [github](https://github.com/YufeiWang777/LRRU) | **695.67** | [CSDN](https://blog.csdn.net/weixin_44936889/article/details/141715360) |
+| Aggregating Feature Point Cloud for Depth Completion | [ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Yu_Aggregating_Feature_Point_Cloud_for_Depth_Completion_ICCV_2023_paper.pdf) | N/A | **736.07** | [CSDN](https://blog.csdn.net/weixin_44936889/article/details/141715725) |
 ## CVPR 2023：
 
 | Paper | Publication | Code | RMSE on KITTI | 论文解读 |
@@ -66,3 +66,21 @@
 | GuideFormer: Transformers for Image Guided Depth Completion | [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Rho_GuideFormer_Transformers_for_Image_Guided_Depth_Completion_CVPR_2022_paper.pdf) | N/A | **721.48** | N/A |
 
 ## WACV 2022：
+N/A
+
+## ICCV 2021：
+
+| Paper | Publication | Code | RMSE on KITTI | 论文解读 |
+| :---- | :---------: | :------: | :-----: | :-----: |
+| Bayesian Deep Basis Fitting for Depth Completion With Uncertainty | [ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Qu_Bayesian_Deep_Basis_Fitting_for_Depth_Completion_With_Uncertainty_ICCV_2021_paper.pdf) | N/A | **876.76** | N/A |
+| Unsupervised Depth Completion With Calibrated Backprojection Layers | [ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Wong_Unsupervised_Depth_Completion_With_Calibrated_Backprojection_Layers_ICCV_2021_paper.pdf) | [github](https://github.com/alexklwong/calibrated-backprojection-network) | **1068.07** | N/A |
+
+## CVPR 2021：
+
+| Paper | Publication | Code | RMSE on KITTI | 论文解读 |
+| :---- | :---------: | :------: | :-----: | :-----: |
+| RGB-D Local Implicit Function for Depth Completion of Transparent Objects | [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_RGB-D_Local_Implicit_Function_for_Depth_Completion_of_Transparent_Objects_CVPR_2021_paper.pdf) | [github](https://github.com/NVlabs/implicit_depth) | N/A | N/A |
+| Depth Completion With Twin Surface Extrapolation at Occlusion Boundaries | [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Imran_Depth_Completion_With_Twin_Surface_Extrapolation_at_Occlusion_Boundaries_CVPR_2021_paper.pdf) | [github](https://github.com/imransai/TWISE) | **840.20** | N/A |
+| Radar-Camera Pixel Depth Association for Depth Completion | [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Long_Radar-Camera_Pixel_Depth_Association_for_Depth_Completion_CVPR_2021_paper.pdf) | [github](https://github.com/longyunf/rc-pda) | N/A | N/A |
+| Depth Completion Using Plane-Residual Representation | [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Depth_Completion_Using_Plane-Residual_Representation_CVPR_2021_paper.pdf) | N/A | **867.12** | N/A |
+
